@@ -65,14 +65,14 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 # Core 1: Product Management
 ## What Is Product Management?
-- [ ] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
-- [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-- [ ] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
-- [ ] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
-- [ ] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
-- [ ] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
-- [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+- [x] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
+- [x] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+- [x] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
+- [x] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
+- [x] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
+- [x] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
+- [x] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+- [x] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
 - [ ] (invalid link) Does the world need Product Managers any more (http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
 - [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
