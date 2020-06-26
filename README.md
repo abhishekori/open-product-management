@@ -73,8 +73,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
 - [x] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
 - [x] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [ ] (invalid link) Does the world need Product Managers any more (http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
-- [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+- [x] (invalid link) Does the world need Product Managers any more (http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
+- [x] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
 - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
