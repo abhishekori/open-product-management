@@ -81,7 +81,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 ## Is It Really For You?
-- [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
+- [x] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
 - [ ] [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
 - [ ] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
 - [ ] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
