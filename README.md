@@ -110,17 +110,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
-- [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
-- [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
-- [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
-- [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
-- [ ] [Your MVP is about discovery not product](http://web.archive.org/web/20170112085359/http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
+- [x] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
+- [x] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
+- [x] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
+- [x] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
+- [x] [Your MVP is about discovery not product](http://web.archive.org/web/20170112085359/http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
 ## All About Those Requirements
-- [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
-- [ ] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
-- [ ] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
-- [ ] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
+- [x] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
+- [x] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
+- [x] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
+- [x] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
 ## Roadmaps, Planning, and Prioritization
 - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
