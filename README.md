@@ -129,17 +129,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
 - [x] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
 - [x] [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
-- [ ] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
-- [ ] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
-- [ ] (invalid link) Don’t publish a product roadmap (http://dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand
-- [ ] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
-- [ ] [Babe Ruth and feature lists](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
-- [ ] [What are the best ways to prioritize a list of product features](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
-- [ ] [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
-- [ ] [Rodmaps focus on vision benefits, not features](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
-- [ ] [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
-- [ ] [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
-- [ ] (invalid link) Product hierarchy of needs (http://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher 
+- [x] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
+- [x] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
+- [x] (invalid link) Don’t publish a product roadmap (http://dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand
+- [x] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
+- [x] [Babe Ruth and feature lists](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
+- [x] [What are the best ways to prioritize a list of product features](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
+- [x] [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
+- [x] [Rodmaps focus on vision benefits, not features](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
+- [x] [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
+- [x] [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
+- [x] (invalid link) Product hierarchy of needs (http://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher 
 - [ ] [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
 - [ ] [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
 - [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
