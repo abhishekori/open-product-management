@@ -140,12 +140,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
 - [x] [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
 - [x] (invalid link) Product hierarchy of needs (http://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher 
-- [ ] [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
-- [ ] [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
-- [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
-- [ ] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
-- [ ] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
-- [ ] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
+- [x] [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
+- [x] [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
+- [x] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
+- [x] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
+- [x] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+- [x] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
 
 ## How To Work With X
 - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
